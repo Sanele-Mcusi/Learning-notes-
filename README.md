@@ -1,7 +1,7 @@
 # Learning-notes-
 Note and small projects while transitioning into a software engineering 
 
-# C# Basics – Learning Notes
+# C# Basics â€“ Learning Notes
 
 This repository contains my learning notes and examples for **C# fundamentals** using **Visual Studio 2022** and a **Console Application**.
 
@@ -24,5 +24,5 @@ It covers core concepts such as variables, classes, constructors, methods, and b
 - Properties
 - Constructors
 - Object creation
-- Top-level statements (C# 10+)
+- Top-level statements (C#)
 --------------------------------------------------------------------------------------------------
